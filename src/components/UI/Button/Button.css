@@ -18,6 +18,7 @@
 .Button:disabled {
     color: #ccc;
     cursor: not-allowed;
+
 }
 
 .Success {

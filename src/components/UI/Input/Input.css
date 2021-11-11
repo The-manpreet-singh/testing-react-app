@@ -2,12 +2,14 @@
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
+
 }
 
 .Label {
     font-weight: bold;
     display: block;
     margin-bottom: 8px;
+
 }
 
 .InputElement {
@@ -15,7 +17,7 @@
     border: 1px solid #ccc;
     background-color: white;
     font: inherit;
-    padding: 6px 10px;
+    padding:  6px 10px;
     display: block;
     width: 100%;
     box-sizing: border-box;
@@ -28,5 +30,5 @@
 
 .Invalid {
     border: 1px solid red;
-    background-color: #FDA49A;
+    background-color: #fda49a;
 }
