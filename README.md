@@ -8,6 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 npm install --save enzyme react-test-renderer enzyme-adapter-react-16
 
+npm test
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
