@@ -9,6 +9,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 npm install --save enzyme react-test-renderer enzyme-adapter-react-16
 
 npm test
+
+for props - we use .setProps() method
+
+for state - we use .setState(state[,callback])=>Self method
+and add export in front of class component
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
